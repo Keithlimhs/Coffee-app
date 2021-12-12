@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004770609464",
+    "project_id": "creme-cold-brew",
+    "storage_bucket": "creme-cold-brew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004770609464:android:7cd47fe1677a551b6619cd",
+        "android_client_info": {
+          "package_name": "com.cremecoldbrew.flutter_coffee_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004770609464-kutkcr0rr4btsemrultrd3mbcn0l9muk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhIh4QcC5pVVEl6_-tNWW9vm2WvzNns_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004770609464-kutkcr0rr4btsemrultrd3mbcn0l9muk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
